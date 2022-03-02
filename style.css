@@ -1,0 +1,28 @@
+img {
+    height: 500px;
+    width: auto;
+}
+
+h1 {
+    font-size: 32px;
+    color: blue;
+    background-color: orange;
+    text-align: center;
+}
+
+h2 {
+    font-size: 25;
+    color: orange;
+    background-color: blue;
+    text-align: center;
+}
+
+p {
+    background-color: grey;
+    color: white;
+}
+
+ul, ol {
+    text-align: left;
+    font-size: 20px;
+}

@@ -5,6 +5,8 @@
 ---
 This project is the first in TOP. It is designed to test my newly learned html skills.
 
+**Update 1**
+Styling was updated initially following basic CSS lessons.
 
 ## Description
 ---
@@ -25,3 +27,4 @@ Throughout this project I used the following:
 4. links
 5. unordered lists
 6. ordered lists
+7. basic CSS
